@@ -12,7 +12,7 @@ The `skill` module adds a MIME type `x-skill` and a mode `skill` that can then b
 * If you are using Jupyter and 
   [*nbextensions*](https://github.com/ipython-contrib/IPython-notebook-extensions),
   clone the repository as `~/.local/share/jupyter/nbextensions/cmMode` (or
-  equivalent).
+  equivalent) and enable it (nbextensions page has more details on how to do this).
 
 # License
    Copyright 2015 Ben Varkey Benjamin
